@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: Geraldo3
+Version: 0.1.0
+Summary: Geraldo is a reports engine for Python, Web2py  and Django applications
+Home-page: https://ocinet.nl/geraldo3
+Author: Marinho Brandao (original author) Nico de Groot (Py3 version)
+Author-email: nico@ocinet.nl
+License: GNU Lesser General Public License (LGPL)
+Description: Geraldo is a Python, Web2py and Django pluggable application that works with ReportLab to generate complex reports.
+Platform: UNKNOWN

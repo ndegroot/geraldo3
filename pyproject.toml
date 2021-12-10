@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "Geraldo3"
+version = "0.1.0"
+description = "Reportgenerator based on Geraldo by Marinho Brandao on top of ReportLab"
+authors = ["Nico de Groot <ndegroot0@gmail.com>"]
+license = "GNU Lessser General Public"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+reportlab = "^3.6.3"
+
+[tool.poetry.dev-dependencies]
+pytest = "^6.2.5"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
